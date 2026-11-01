@@ -15,6 +15,18 @@ A full-stack web application where customers browse a menu, order food online an
 - Cart with quantity updates
 - Checkout with delivery address and (simulated) payment method
 - Order history, order details, cancel while order is "Placed"
+- ### Version 2.0 – Updated Specifications
+
+New features added:
+- Order tracking facility.
+- Delivery status updates.
+- Order cancellation option.
+- Improved cart management.
+- Order confirmation notification.
+
+**Version:** 2.0
+
+**Changes:** Additional functionality added to improve the customer ordering experience.
 
 **Admin**
 - Dashboard: orders, revenue, customers, menu items
